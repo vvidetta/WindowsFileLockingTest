@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileWriter", "FileLockingTest\FileLockingTest.vcxproj", "{9EE9035A-6143-478C-AF56-F13E5D7AD354}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileCopier", "FileCopier\FileCopier.vcxproj", "{54645246-D560-4BA0-8E9F-9E0047708139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE9035A-6143-478C-AF56-F13E5D7AD354}.Debug|x64.ActiveCfg = Debug|x64
+		{9EE9035A-6143-478C-AF56-F13E5D7AD354}.Debug|x64.Build.0 = Debug|x64
+		{9EE9035A-6143-478C-AF56-F13E5D7AD354}.Release|x64.ActiveCfg = Release|x64
+		{9EE9035A-6143-478C-AF56-F13E5D7AD354}.Release|x64.Build.0 = Release|x64
+		{54645246-D560-4BA0-8E9F-9E0047708139}.Debug|x64.ActiveCfg = Debug|x64
+		{54645246-D560-4BA0-8E9F-9E0047708139}.Debug|x64.Build.0 = Debug|x64
+		{54645246-D560-4BA0-8E9F-9E0047708139}.Release|x64.ActiveCfg = Release|x64
+		{54645246-D560-4BA0-8E9F-9E0047708139}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80EA748C-1AEB-4FAB-9747-397B30A141A4}
+	EndGlobalSection
+EndGlobal
